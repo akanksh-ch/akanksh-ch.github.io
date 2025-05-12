@@ -1,0 +1,11 @@
+img {
+    max-height: 7.5rem;
+    border-radius: 100%;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+}
