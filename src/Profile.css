@@ -3,13 +3,13 @@ img {
     border-radius: 100%;
 }
 
-div {
+.profile {
     display: flex;
     flex-direction: column;
     text-align: center;
     align-items: center;
     
-    background-color: purple;
+    background: linear-gradient(90deg, rgba(128, 0, 128, 1) 0%, rgba(195, 0, 195, 1) 50%, rgba(128, 0, 128, 1) 100%);
     padding: 0.5rem 0 0.5rem 0;
 }
 
