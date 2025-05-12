@@ -1,0 +1,11 @@
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: hsl(0, 0%, 15%);
+        color: white;
+    }
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
