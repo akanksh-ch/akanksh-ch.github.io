@@ -115,7 +115,7 @@ const repos = [  {
 
 export default function Repos() {
     return <>
-    <ul>
+    <ul className='repos'>
         {repos.map(repo => (<li key={repo.id}>
             <Repo json_data={repo} />
         </li>))}
