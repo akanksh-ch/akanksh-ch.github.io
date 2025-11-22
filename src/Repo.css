@@ -7,7 +7,8 @@
 .repos > li {
     list-style-type: none;
     margin: 1rem;
-    width: 10vw;
+    min-width: 15rem;
+    max-width: 15rem;
     text-wrap: pretty;
 
     /* Following code block thanks to https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/border-image#rounded_borders */
